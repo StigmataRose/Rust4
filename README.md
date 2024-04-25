@@ -6,5 +6,5 @@ So far I was able to process a payment, however customer creation will have to b
 <p align="left">
   <em></em>
   <br />
-  <img src="./example/shift4.png" alt="Image 1" width="200" />
+  <img src="./example/Shift4.png" alt="Image 1" width="200" />
 </p>
